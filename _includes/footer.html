@@ -25,9 +25,13 @@
           <a href="https://github.com/cotes2020/jekyll-theme-chirpy" target="_blank" rel="noopener">Chirpy</a>
           {%- endcapture -%}
 
-          {{ site.data.locales[site.lang].meta
+          <!-- {{ site.data.locales[site.lang].meta
             | default: 'Using the :PLATFORM theme :THEME.'
             | replace: ':PLATFORM', _platform | replace: ':THEME', _theme
+          }} -->
+
+          {{ site.data.locales[site.lang].meta
+            | default: '😊 2023 some rights reserved.'
           }}
         </p>
       </div>
