@@ -81,7 +81,7 @@ theme_mode: [dark]
 img_cdn: 'https://github.com/tusuii/literate-umbrella/blob/blog/subodh_profile_professional.jpg'
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /commons/subodh_profile_professional.png
+avatar: '/commons/subod.jpg'
 
 # boolean type, the global switch for ToC in posts.
 toc: true
