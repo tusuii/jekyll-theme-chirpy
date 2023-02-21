@@ -36,15 +36,15 @@ In conclusion, my passion for computer science, technology, and art, combined wi
 # Favourite Tech I like/would like to work with
 
 ### Programming languages
-| Skill | Proficiency |
-|-------|-------------|
-| Python | High |
-| MySQL  | Intermediate |
-| JavaScript | High |
-| React JS | Intermediate |
-| TypeScript | Basics |
-| Java | Intermediate |
-| Haskell | Basics|
+| Skill    | Proficiency   |
+|----------|---------------|
+| Python   | High          |
+| MySQL    | Intermediate  |
+| JavaScript | High        |
+| React JS | Intermediate  |
+| TypeScript | Basics      |
+| Java     | Intermediate  |
+| Haskell  | Basics        |
 
 
 ### To Learn more / Improve upon
