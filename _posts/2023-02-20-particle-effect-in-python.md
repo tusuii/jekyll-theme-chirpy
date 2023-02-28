@@ -2,7 +2,7 @@
 title: Flocking simulation in python
 author: subodh 
 date: 2023-02-20 09:38:31
-categories: [Tutorial, Diy]
+categories: [Tutorial]
 tags: [Diy,Tutorial]
 math: true
 mermaid: true
