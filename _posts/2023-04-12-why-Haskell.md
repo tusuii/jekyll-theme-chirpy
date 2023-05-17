@@ -279,4 +279,6 @@ The Haskell community is a thriving and active one, with a strong presence in on
 
 [learnyouahaskell.com]("http://learnyouahaskell.com/chapters")
 
+[my github for haskell]("https://github.com/tusuii/literate-umbrella/tree/main/haskell")
+
 
