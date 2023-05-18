@@ -11,6 +11,8 @@ mermaid: true
 
 # Why to use haskell? a gentle introduction to functional programming
 
+<img width="512" alt="Haskell-Logo" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/512px-Haskell-Logo.svg.png">
+
 ## What is haskell?
 
 <p style="text-align: justify">
@@ -279,6 +281,6 @@ The Haskell community is a thriving and active one, with a strong presence in on
 
 [learnyouahaskell.com]("http://learnyouahaskell.com/chapters")
 
-[my github for haskell]("https://github.com/tusuii/literate-umbrella/tree/main/haskell")
+[my github for haskell]("https://github.com/tusuii/literate-umbrella/tree/main/haskell/")
 
 
